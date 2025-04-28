@@ -1,4 +1,4 @@
-// creating a class, declaring a method then callin= the method
+// creating a class, declaring a method then calling the method
 package Pkg.OOP_Challenge;
 // creating a class
 public class Challenge1{
