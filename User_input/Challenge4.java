@@ -1,5 +1,5 @@
 // asking for user input
-package Pkg.OOP_Challenge;
+package Pkg.OOP_Challenge.User_input;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // use of variables.
-package Pkg.OOP_Challenge;
+package Pkg.OOP_Challenge.Use_Of_Variables;
 public class Challenge2 {
     void Variables(){
         double weight, height, Bmi;

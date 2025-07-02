@@ -1,5 +1,5 @@
 // using if else statement to make a decision of if you are an adult or minor and your level of education according to your age
-package Pkg.OOP_Challenge;
+package Pkg.OOP_Challenge.If_Else_Decision_Making;
 public class Challenge3 {
     void status(){
      int age =23;
