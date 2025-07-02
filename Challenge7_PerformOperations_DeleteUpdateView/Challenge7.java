@@ -1,4 +1,4 @@
-package Pkg.OOP_Challenge.PerformOperations_DeleteUpdateView;
+package Pkg.OOP_Challenge.Challenge7_PerformOperations_DeleteUpdateView;
 public class Challenge7 {
     public static void main(String[] args) {
         Admin curAdmin = new Admin(190012, "Michelle", "michelle2006$");
@@ -7,7 +7,6 @@ public class Challenge7 {
         curAdmin.performOperation(new Update());
         curUser.performOperation(new View());
         curAdmin.performOperation(new Delete());
-
     }
 }
 // abstract class account

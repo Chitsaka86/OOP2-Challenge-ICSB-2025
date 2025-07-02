@@ -1,5 +1,5 @@
 // using while loop to test for odd and even numbers
-package Pkg.OOP_Challenge.While_Loop;
+package Pkg.OOP_Challenge.Challenge5_While_loop;
 import java.util.Scanner;
 public class Challenge5 {
   Scanner scanner= new Scanner(System.in);

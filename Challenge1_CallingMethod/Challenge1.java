@@ -1,5 +1,5 @@
 // creating a class, declaring a method then calling the method
-package Pkg.OOP_Challenge.Class_CallingMethod;
+package Pkg.OOP_Challenge.Challenge1_CallingMethod;
 // creating a class
 public class Challenge1{
     // declaring a method
