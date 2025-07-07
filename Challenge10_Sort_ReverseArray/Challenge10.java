@@ -1,4 +1,4 @@
-package Pkg.OOP_Challenge.Challenges10_Sort_ReverseArray;
+package Pkg.OOP_Challenge.Challenge10_Sort_ReverseArray;
 // Challenge for sorting an array in an alphabetical-order then reversing the order
 
 // imported classes
